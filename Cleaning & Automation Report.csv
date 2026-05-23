@@ -1,0 +1,15 @@
+Column Name,Data Type,Missing Values,Unique Values
+Brand,object,0,113
+Model,object,0,4428
+OS,object,0,149
+Release_Date,object,0,1362
+Battery,float64,0,327
+Processor,object,0,289
+Memory,float64,0,27
+Primary_Storage,float64,0,19
+External_Storage,object,0,13
+Display_Size,float64,0,62
+Display_Resolution,object,0,152
+Display_Refresh_Rate,float64,0,6
+Primary_Camera,float64,0,29
+Front_Camera,object,0,35
