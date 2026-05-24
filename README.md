@@ -1,3 +1,3 @@
 # Thiranex-Internship-Data-Analytics
 
-![Dashboard Screenshots](Screenshot/main.jpg)
+![Analysis Dashboard.pdf](Screenshot/main.jpg)
