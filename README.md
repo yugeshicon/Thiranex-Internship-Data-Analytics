@@ -1,3 +1,3 @@
 # Thiranex-Internship-Data-Analytics
 
-![Analysis Dashboard](https://github.com/yugeshicon/Thiranex-Internship-Data-Analytics/blob/main/dashboard.png)
+![Analysis Dashboard](./Task%201:%20Sales%20Analysis%20Dashboard/Analysis%20Dashboard.jpg)
